@@ -103,7 +103,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 🔗 **Connect with Me**
-[GitHub](https://github.com/your-profile) | [LinkedIn](https://www.linkedin.com/in/your-profile/)
+[GitHub](https://github.com/nithinkarnam) | [LinkedIn](https://www.linkedin.com/in/karnamnithin/)
 
 ---
 
